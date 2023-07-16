@@ -1,0 +1,8 @@
+GLOBAL MAP
+
+v->f->d
+
+v - village location
+f - forest location
+d - dungeon location
+-> - location connection

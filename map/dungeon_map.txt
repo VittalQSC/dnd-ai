@@ -1,0 +1,9 @@
+DUNGEON LOCATION MAP
+
+cm->w->k
+
+c - chest
+m - monster
+k - key
+w - wizard, he will let you pass if you will solve his riddle
+-> - spot connection, player can not go to the next spot until he resolves task in previous spot

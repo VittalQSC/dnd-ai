@@ -1,0 +1,8 @@
+FOREST LOCATION MAP
+
+mc->w
+
+c - chest
+m - monster
+w - angry wizard, he will let you pass ONLY if you will solve his riddle
+-> - spot connection, player can not go to the next spot until he resolves task in previous spot
