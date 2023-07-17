@@ -1,7 +1,6 @@
 GLOBAL MAP
 
-v->f->d
+v->d
 
 v - village location
-f - forest location
 d - dungeon location

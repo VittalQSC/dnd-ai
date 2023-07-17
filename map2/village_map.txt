@@ -1,10 +1,8 @@
 VILLAGE LOCATION MAP
 
-t;c;b
+c
 
-t - tavern
 c - chest
-b - blacksmith, he will give player the discount if player will solve his riddle. 
 
 player can skip the task in this location
 player has this location already explored, feel free to provide user any information about this location
